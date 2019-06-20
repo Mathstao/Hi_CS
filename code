@@ -1,5 +1,5 @@
 #include<iostream>
-# test
+# v2.0
 
 int main(){
 std::cout<<"Hi,CS!"<<endl;
